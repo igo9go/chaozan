@@ -1,5 +1,7 @@
 <template>
-
+  <div class="">
+    dwdqw
+  </div>
 </template>
 
 <script type="text/ecmascript-6">

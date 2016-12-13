@@ -9,6 +9,7 @@ Vue.use(VueRouter)
 
 var router = new VueRouter({
   routes: routes,
+  linkActiveClass: 'active'
 })
 
 

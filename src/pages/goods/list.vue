@@ -1,5 +1,5 @@
 <template>
-
+  <div class="dwq">just a test</div>
 </template>
 
 <script type="text/ecmascript-6">
